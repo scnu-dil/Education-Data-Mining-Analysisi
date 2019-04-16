@@ -1,4 +1,4 @@
-# Education-Data-Mining-Analysisi
+# Education-Data-Mining-Analysis
 intorduction of this repo
 
 # Paper
