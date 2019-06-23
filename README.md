@@ -1,7 +1,7 @@
 # Education-Data-Mining-Analysis
 intorduction of this repo
 
-# Paper
+# Deep Knowledge Tracing Related Paper
 
 
 | Titile      | Conference     | Author     | Code     |
