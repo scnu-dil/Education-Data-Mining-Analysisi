@@ -1,5 +1,5 @@
 # Education-Data-Mining-Analysis
-intorduction of this repo
+This repo is a hub to provide important papers with code in the field of education data mining annd analysis.
 
 # Deep Knowledge Tracing Related Paper
 
